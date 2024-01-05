@@ -1,3 +1,2 @@
 # odin-recipes
-HTML Practice
-Conducting HTML practice via recipe basic website setup.
+Conducting HTML practice through setup of basic recipe site.
